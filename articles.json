@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2,
+    "title": "New1 Article",
+    "content": "js for the beginners",
+    "tags": [
+      "tech",
+      "tutorial"
+    ],
+    "date": "2024-12-03T06:35:28.546Z"
+  },
+  {
+    "id": 3,
+    "title": "New 2Article",
+    "content": "html for the beginners",
+    "tags": [
+      "tech",
+      "tutorial"
+    ],
+    "date": "2024-12-03T06:36:52.788Z"
+  },
+  {
+    "id": 3,
+    "title": "Desh prem",
+    "content": "warriers of country",
+    "tags": [
+      "new",
+      "tagsss"
+    ],
+    "date": "2024-12-03T06:57:16.469Z"
+  },
+  {
+    "id": 4,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "news",
+      "tech"
+    ],
+    "date": "2024-12-03T07:11:33.899Z"
+  },
+  {
+    "id": 5,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "news",
+      "tech"
+    ],
+    "date": "2024-12-03T07:11:34.825Z"
+  },
+  {
+    "id": 6,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "news",
+      "tech"
+    ],
+    "date": "2024-12-03T07:11:51.449Z"
+  },
+  {
+    "id": 7,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "news",
+      "tech"
+    ],
+    "date": "2024-12-03T07:11:52.286Z"
+  },
+  {
+    "id": 8,
+    "title": "Sample Article Title",
+    "content": "This is the content of the article.",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "date": "2024-12-03T07:12:05.966Z"
+  }
+]
